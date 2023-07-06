@@ -21,8 +21,7 @@ class PdoWerewolf
     private static $myPdoWerewolf = null;
 
     /**
-     * Constructeur privé, crée l'instance de PDO qui sera sollicitée
-     * pour toutes les méthodes de la classe
+     * Private constructor, Create the PDO instance used for every query
      */
     private function __construct()
     {
