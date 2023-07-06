@@ -1,13 +1,13 @@
 <?php
-/** Welcome views
- *  -------
- *  @file
- *  @brief Welcome page displaying the possibilities
- * 
- *  @category  Master Project
- *  @package   Werewolf
- *  @author    Warren BEVILACQUA <bevilacqua.warren@gmail.com>
- *  @version   GIT: <0>
+/** Pseudos writing view
+ *
+ * @file
+ * @brief Players can write their pseudo for the game
+ *
+ * @category  Master Project
+ * @package   Werewolf
+ * @author    Bevilacqua Warren <bevilacqua.warren@gmail.com>
+ * @version   GIT: <0>
  */
 ?>
 

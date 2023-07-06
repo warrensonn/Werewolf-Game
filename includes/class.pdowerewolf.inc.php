@@ -2,8 +2,8 @@
 /** Data access class
  *  -------
  * @file
- * @brief Utilise les services de la classe PDO pour l'application AI Frais
- * @brief Les attributs sont tous statiques, les 4 premiers pour la connexion, $myPdo de type PDO, $myPdoLaFleur qui contiendra l'unique instance de la classe
+ * @brief Use PDO class services for the werewolf app
+ * @brief All attributes are statics, the first 4 for the connection
  * 
  * @category  Master Project
  * @package   Werewolf

@@ -2,7 +2,7 @@
 /** Welcome management controller
  *  -------
  *  @file
- *  @brief Welcome management with login form
+ *  @brief Welcome management with game creation handling
  * 
  *  @category  Master Project
  *  @package   Werewolf

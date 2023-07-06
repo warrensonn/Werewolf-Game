@@ -2,7 +2,7 @@
 /** Header views
  *  -------
  *  @file
- *  @brief Header based on the user type 
+ *  @brief Header
  * 
  *  @category  Projet Master
  *  @package   Werewolf

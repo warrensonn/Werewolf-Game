@@ -1,3 +1,15 @@
+<?php
+/** Revive witch power view
+ *
+ * @file
+ * @brief Allow the witch to revive if possible to werewolf victim of the name
+ *
+ * @category  Master Project
+ * @package   Werewolf
+ * @author    Bevilacqua Warren <bevilacqua.warren@gmail.com>
+ * @version   GIT: <0>
+ */
+?>
 
 <h2 class="text-primary">Place à la sorcière</h2>
 <h3>Les loups-garous ont mangé <?php echo $_SESSION['eatten']?></h3>

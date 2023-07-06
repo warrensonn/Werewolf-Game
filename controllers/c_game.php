@@ -1,8 +1,8 @@
 <?php
-/** Welcome management controller
+/** Game controller
  *  -------
  *  @file
- *  @brief Welcome management with login form
+ *  @brief Game controlling 
  * 
  *  @category  Master Project
  *  @package   Werewolf

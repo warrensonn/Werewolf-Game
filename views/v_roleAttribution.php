@@ -1,4 +1,15 @@
 <?php
+/** Role attribution view
+ *
+ * @file
+ * @brief Attribute a role to each player
+ *
+ * @category  Master Project
+ * @package   Werewolf
+ * @author    Bevilacqua Warren <bevilacqua.warren@gmail.com>
+ * @version   GIT: <0>
+ */
+
 if ($nb > $_SESSION['playersNumber'] - 1) {
 	$msg = "Commencer la partie";
 	$action = "index.php?uc=game";

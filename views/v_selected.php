@@ -1,3 +1,16 @@
+<?php
+/** Selected view
+ *
+ * @file
+ * @brief Display the name and image (if required) of the selected person
+ *
+ * @category  Master Project
+ * @package   Werewolf
+ * @author    Bevilacqua Warren <bevilacqua.warren@gmail.com>
+ * @version   GIT: <0>
+ */
+?>
+
 <body>
     <div class="container">
         <?php if (isset($msg)) { ?>

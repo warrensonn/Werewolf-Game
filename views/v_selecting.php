@@ -1,3 +1,15 @@
+<?php
+/** Selection view
+ *
+ * @file
+ * @brief Allow player to choose between the possible target
+ *
+ * @category  Master Project
+ * @package   Werewolf
+ * @author    Bevilacqua Warren <bevilacqua.warren@gmail.com>
+ * @version   GIT: <0>
+ */
+?>
 
 <style>
     .ligne {
